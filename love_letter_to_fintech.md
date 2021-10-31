@@ -1,0 +1,14 @@
+# MY LOVE LETTER TO FINTECH
+There is no ‘the bug bit me at a young age’ moment for me in terms of finding my passion regarding what I want to pursue as a career. In fact, China before we enter this millennium we are in right now is not the mammoth in Fintech innovation as we know it of today.
+
+
+Still, when the eureka happened, it was both natural and fateful. By that time, I have completed internships during those I built NLP algorithms for asset management and predictive models for risk management in the lending space. Actually, it was even after me working at Goldman Sachs, a remarkably innovative giant in the financial services industry not only markets itself but also goes out of its ways in committing to the vision of becoming a top-notch tech firm. However, I guess sometimes the inspiration for work really comes outside of work.
+
+
+I still remember vividly that evening when I received a book as a gift. It was called "Confidence Game" by Christine S. Richard. I binge-read this excellent book and finished it in 3 days. One of the most impressive stories was about this "Open Source Model". This model was released by Bill Ackman of Pershing Square Capital Management which provided 30, 499 tranches of 534 CDOs to which MBIA and Ambac had exposure. It was a bit unreal and funny to see how the 110 MBs file was considered 'Big Data' back then and certainly required powerful computer to work on. However, this model struck me in the sense that how technology can enable rigorous research and data analysis which can help to tackle the most pressing challenges in finance. More importantly, open-sourcing the technology will create shareholder value, help shape the markets and regulation, and touch and improve thousands of millions of people's lives.
+
+
+I was not able to download the model by PSCM to play with it myself due to the invalid link 13 years later. But luckily, there are many other amazing firms which share the belief. Two Sigma for example, a financial sciences company which open-sourced a lot of their technologies and doing good with those really fit what I think as a cool fintech company. Beyond hedgefunds, as a avid reader of posts by VCs like A16z, I realize that there are so many incredible technologies being built every single day in finance whether its liquidity provision, payment, insurance, transaction, or blockchain.
+
+
+I still know very little about the Fintech which is on its way to eat the world. But I truly believe this is something I want to be doing in the next decade.
