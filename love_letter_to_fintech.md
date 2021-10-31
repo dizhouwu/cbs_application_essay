@@ -1,4 +1,4 @@
-# MY LOVE LETTER TO FINTECH
+# My Love Letter to Fintech
 There is no ‘the bug bit me at a young age’ moment for me in terms of finding my passion regarding what I want to pursue as a career. In fact, China before we enter this millennium we are in right now is not the mammoth in Fintech innovation as we know it of today.
 
 
